@@ -5,11 +5,8 @@ function myFunction(sent)
 	var span = document.getElementsByClassName("close")[0];
 	modal.style.display = "block";
 
-	window.onclick = function(event) 
+	span.onclick = function() 
 	{
-		if (event.target == modal) 
-		{
 		modal.style.display = "none";
-		}
 	}
 }
