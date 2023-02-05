@@ -1,0 +1,91 @@
+@import url('https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@1,300&display=swap');
+
+header 
+{ 
+	background-color: #0D2C45;
+	font-family: Cormorant Garamond;
+	font-size: 18px;
+}
+
+.nav-link:link 
+{ 
+	text-decoration: none; 
+	color:#ddf0ff;
+}
+
+.nav-link:visited 
+{ 
+	text-decoration: none; 
+	color:#ddf0ff;
+}
+
+.nav-link:hover 
+{ 
+	text-decoration: none; 
+	color:#9DA4A8
+}
+		
+main 
+{ 	
+	background-color:#d8e0e6;
+} 
+
+#bio 
+{ 
+	background-color:#2D516D; 
+	color: #b9cbd7;
+	padding-top: 24px;
+	padding-bottom: 30px;
+	font-family: Cormorant Garamond;
+	font-style: italic;
+	font-size: 18.2px;
+}
+
+#dot
+{
+	color:#2D516D;
+}
+
+h1 
+{ 
+	color:#6CA1C3; 
+	font-family: Gabriola; 
+	font-size: 53px;
+	padding-top: 5px;
+}
+
+footer 
+{ 
+	background-color: #0D2C45; 
+	color: #9DA4A8;
+	font-family: Cormorant Garamond;
+	font-size: 17px;
+}
+
+b 
+{ 
+	color:#6CA1C3
+}
+
+i 
+{ 
+	color:#0D2C45
+}
+				
+ul 
+{ 
+	list-style-type: none;
+}
+						
+a:link 
+{ 
+	text-decoration: none; 
+	color:#9DA4A8
+}
+
+a:hover 
+{ 
+	text-decoration: none; 
+	color:#d8e0e6
+}
